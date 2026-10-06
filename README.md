@@ -1,13 +1,4 @@
-nama alwan zaki faros
-kelas :d
-npm 25430093# 
-
-## Identitas Proyek
-* **Tema Proyek:** Akademik
-* **Nama Organisasi Fiktif:** Sistem Informasi Akademik Cendekia DI
-* **NIM:** 25430093
-* **Database:** `akademik_093`
- # Repository Praktikum Basis Data
+# Repository Praktikum Basis Data
 
 ## Identitas Praktikan
 * **Nama Lengkap:** Alwan Zaki Faros
@@ -18,7 +9,7 @@ npm 25430093#
 * **Tema Proyek:** Akademik
 * **Nama Organisasi Fiktif:** Sistem Informasi Akademik Cendekia DI
 * **NIM:** 25430093
-* **Database:** `akademik_093`
+* **Basis Data:** `akademik_093`
 
 ## Daftar Tugas
 * **P01:** Inisialisasi Repositori dan Skrip Lingkungan
